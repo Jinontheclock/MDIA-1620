@@ -15,3 +15,12 @@ wes bos - free programming tutorials
 >
 > 1. Billi
 > 2. vat
+
+Hajin
+Ham and cheese sandwich is popular
+how to openf the terminal with Mac
+Finally Openes Github
+
+Unclear
+outline?
+what is the git?
