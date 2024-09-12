@@ -25,5 +25,5 @@ Unclear
 outline?
 what is the git?
 
-![alt text](https://www.unileverfoodsolutions.us/recipe/spicy-mayo-fried-chicken-sandwich-R90012491.html)
+https://www.unileverfoodsolutions.us/dam/global-ufs/mcos/NAM/calcmenu/recipes/US-recipes/sandwiches/spicy-mayo-fried-chicken-sandwich/crispychickensandwich_1206x709.jpg![image](https://github.com/user-attachments/assets/bb215150-1263-47d7-9985-7a623a1cc595)
 
