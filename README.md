@@ -25,5 +25,3 @@ Unclear
 outline?
 what is the git?
 
-https://www.unileverfoodsolutions.us/recipe/spicy-mayo-fried-chicken-sandwich-R90012491.html
-
