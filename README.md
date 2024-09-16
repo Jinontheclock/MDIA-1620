@@ -1,4 +1,17 @@
 # MDIA-1620
+
+Name: Hajin
+
+My Favorite sandwich:
+![alt text](https://www.unileverfoodsolutions.us/dam/global-ufs/mcos/NAM/calcmenu/recipes/US-recipes/sandwiches/spicy-mayo-fried-chicken-sandwich/crispychickensandwich_1206x709.jpg)
+
+3 - 2 - 1's
+3: I made an Github account!, Computers can't 'think' like human, Sonja is pronounced "SAWN-ya"
+2: How to use github practically, What is Git?
+1: excited!
+
+
+
 A *cool* cool repository for my MDIA-1620 code.
 
 cd - what you type  when you need to change directiories
