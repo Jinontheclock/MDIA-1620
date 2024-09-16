@@ -5,10 +5,11 @@ Name: Hajin
 My Favorite sandwich:
 ![My sandich](https://www.onceuponachef.com/images/2023/05/fried-chicken-sandwiches-1638x2048.jpg)
 
-3 - 2 - 1's
-3: I made an Github account!, Computers can't 'think' like human, Sonja is pronounced "SAWN-ya"
-2: How to use github practically, What is Git?
-1: excited!
+3 - 2 - 1's <br>
+3: I made an Github account!, Computers can't 'think' like human, Sonja is pronounced "SAWN-ya" <br>
+2: How to use github practically, What is Git? <br>
+1: excited! <br>
+
 
 
 
@@ -23,18 +24,3 @@ mkdir - make a new folder (directory)
 touch - make a file
 
 wes bos - free programming tutorials
-
-> Names for dogs
->
-> 1. Billi
-> 2. vat
-
-Hajin
-Ham and cheese sandwich is popular
-how to openf the terminal with Mac
-Finally Openes Github
-
-Unclear
-outline?
-what is the git?
-
