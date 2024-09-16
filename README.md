@@ -3,7 +3,7 @@
 Name: Hajin
 
 My Favorite sandwich:
-![My sandich](https://www.unileverfoodsolutions.us/dam/global-ufs/mcos/NAM/calcmenu/recipes/US-recipes/sandwiches/spicy-mayo-fried-chicken-sandwich/crispychickensandwich_1206x709.jpg)
+![My sandich](https://www.onceuponachef.com/images/2023/05/fried-chicken-sandwiches-1638x2048.jpg)
 
 3 - 2 - 1's
 3: I made an Github account!, Computers can't 'think' like human, Sonja is pronounced "SAWN-ya"
