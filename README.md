@@ -12,10 +12,10 @@ My Favorite sandwich:
 2: How to use github practically, What is Git? <br>
 1: excited! <br>
 
-9/19
-3 git, github, js
-2 was hard to link 
-1 happy
+9/19 <bt>
+3 git, github, js <br>
+2 was hard to link <br>
+1 happy! <br>
 
 
 
@@ -40,6 +40,7 @@ git commit - add an entry to our git timeline <br>
 git pull - grabs changes from a remote repository <br>
 git push - push changes to a remote repository <br>
 
+Here
 Here
 Here
 Here
