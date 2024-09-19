@@ -15,12 +15,20 @@ My Favorite sandwich:
 
 A *cool* cool repository for my MDIA-1620 code.
 
-cd - what you type  when you need to change directiories
-cd [command]
-ch [foldername]
-cd ../ = ALWAYS will move you "up" to the directory above
-ls - List the files and folders in your directory
-mkdir - make a new folder (directory)
-touch - make a file
+cd - what you type  when you need to change directiories <br>
+cd [command] <br>
+ch [foldername] <br>
+cd ../ = ALWAYS will move you "up" to the directory above <br>
+ls - List the files and folders in your directory <br>
+mkdir - make a new folder (directory) <br>
+touch - make a file <br>
 
-wes bos - free programming tutorials
+git clone - clones a repository <br>
+git status - tell me the current status of my local repository <br>
+git add - adds files to be tracked <br>
+git commit - add an entry to our git timeline <br>
+git pull - grabs changes from a remote repository <br>
+git push - push changes to a remote repository <br>
+Wes Bos - free programming tutorials <br>
+Understand git - https://blinry.itch.io/oh-my-git
+
