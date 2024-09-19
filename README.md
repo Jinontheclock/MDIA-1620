@@ -15,13 +15,13 @@ My Favorite sandwich:
 
 A *cool* cool repository for my MDIA-1620 code.
 
-'cd' - what you type  when you need to change directiories <br>
-'cd [command]' <br>
-'ch [foldername]' <br>
-'cd ../' = ALWAYS will move you "up" to the directory above <br>
-'ls' - List the files and folders in your directory <br>
-'mkdir' - make a new folder (directory) <br>
-'touch' - make a file <br>
+`cd` - what you type  when you need to change directiories <br>
+`cd [command]` <br>
+`ch [foldername]` <br>
+`cd ../` = ALWAYS will move you "up" to the directory above <br>
+`ls` - List the files and folders in your directory <br>
+`mkdir` - make a new folder (directory) <br>
+`touch` - make a file <br>
 
 Wes Bos - free programming tutorials <br>
 Understand git - https://blinry.itch.io/oh-my-git
