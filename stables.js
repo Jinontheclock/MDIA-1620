@@ -43,5 +43,9 @@ console.log(rentIntroduction);
 let horseNickName = "Cookie";
 console.log(`My house nickname is ${horseNickName}`);
 
-let STABLE_MONTHLY = 30
-console.log(STABLE_MONTHLY * 3);
+const rent = 1000
+const food = 1000
+const shopping = 500
+
+let STABLE_MONTHLY = rent + food + shopping;
+console.log(STABLE_MONTHLY/10 * 3);
