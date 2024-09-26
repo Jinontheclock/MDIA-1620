@@ -38,3 +38,10 @@ console.log(horeseName + horseIntroduction);
 let rentIntroductions = `It costs ${STABLE_MONTHLY_FEE} to board ${horeseName}`;
 
 console.log(rentIntroduction);
+
+//////////////Lesson 4 code//////////////
+let horseNickName = "Cookie";
+console.log(`My house nickname is ${horseNickName}`);
+
+let STABLE_MONTHLY = 30
+console.log(STABLE_MONTHLY * 3);
