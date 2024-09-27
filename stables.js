@@ -42,14 +42,11 @@ console.log(rentIntroduction);
 //////////////Lesson 4 code//////////////
 const rent = 1000
 let horseNickName = "Cookie";
-let introductionHorse = `My horse nickname is ${horseNickName}`;
+let introductionHorse = `My horse's nickname is ${horseNickName}`;
 let introductionStable = `Welcome to ${horseNickName}'s stable.`;
-let discount = `sign up today and receive %10 off for three months!`;
-let savings = `that is $${(rent * 3) * .1} in savings!`;
+let discount = `Sign up today and receive %10 off for three months!`;
+let savings = `That is $${(rent * 3) * .1} in savings!`;
 console.log(introductionHorse);
 console.log(introductionStable);
 console.log(discount);
 console.log(savings);
-
-
-
