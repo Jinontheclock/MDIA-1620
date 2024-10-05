@@ -1,7 +1,7 @@
 console.log("what")
 
-const horeseName = "King";
-let horeseAge = 939393;
+let horeseName = "King";
+let horeseAge = 10;
 console.log(horeseAge);
 let ishorseAge = true;
 console.log(ishorseAge);
@@ -50,3 +50,82 @@ console.log(introductionHorse);
 console.log(introductionStable);
 console.log(discount);
 console.log(savings);
+
+
+
+
+//LESSON-5 Code
+
+/*
+if(3 < 4){
+    console.log("This is getting output becuz");
+}
+
+let isHorseInside = false;
+
+if(isHorseInside){
+    console.log(horeseName + " is ïnside")
+} else {
+    console.log(horeseName + "is outside")
+}
+
+if(horeseAge === 10){
+    console.log("Our horese is old!")
+} else if(horeseAge < 10){
+    console.log("our Horese is practically geriatric!")
+} else{
+    console.log("our horese is still pretty young.")
+}
+
+horeseName = "Strawberry"
+//horeseName = "Charie"
+
+if(horeseName !== "Charie"){
+    console.log(`${horeseName} has come to visit the stables`)
+ } else {
+    console.log(horeseName + "is lonely")
+ }
+    */
+
+/*
+=== equal to
+!== not equal to
+> greater than
+< less than
+>= greater than or equal to
+<= less than or equal to
+
+&&
+And
+all conditions must be true
+||
+OR
+one or more conditions must be
+true
+!
+Negation
+runs if the condition is false
+*/
+
+
+//Lab 5a
+
+if (horeseName === "King"){
+    console.log(`${horeseName} is inside`)
+} else if(horeseName === "Queen"){
+    console.log(`${horeseName} is not King`)
+} else {
+    console.log(`${horeseName} is outside`)
+}
+
+//This is for practice
+
+if (horeseAge === 10 && horeseName === "King"){
+    console.log(`${horeseName} is 10.`)
+} else if (horeseAge > 10 && horeseName === "King"){
+    console.log(`${horeseName} is super young.`)
+} else if (horeseAge < 10 && horeseName === "King"){
+    console.log(`${horeseName} is ready to retire.`)
+} else {
+    console.log(`${horeseName} is not my horese!`)
+}
