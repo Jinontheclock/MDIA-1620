@@ -110,6 +110,7 @@ runs if the condition is false
 
 //Lab 5a
 
+<<<<<<< Updated upstream
 if (horeseName === "King"){
     console.log(`${horeseName} is inside`)
 } else if(horeseName === "Queen"){
@@ -135,3 +136,28 @@ if (horeseAge === 10 && horeseName === "King"){
 //Lesson-6
 let word = "Rainbow";
 console.log(word.charAt(0));
+=======
+let horseIntro = `There are ${horseName.length} horse staying at my stables
+     ${horseNames[0]}, ${horseNames[1]}, ${horseNames[2]}!`;
+console.log(horseIntro);
+
+let differentHorseIntro =
+"There are " +
+horseNames.length +
+" horse staying at my stables: " +
+horseNames[0] +
+", " +
+horseNames[1] +
+", " +
+horseNames[2] +
+"!";
+console.log(differentHorseIntro);
+
+//LAB TODAY - branch lesson-6 done by Sunday
+// -Output an introduction to your horses
+// -Output whether your horses are inside or outside AT LEAST 3 horses!
+//Readme
+// 3 confusing things
+// 3 things you feel like you have a solid understanding of
+// Analogies that you use to think about things (gif)
+>>>>>>> Stashed changes
